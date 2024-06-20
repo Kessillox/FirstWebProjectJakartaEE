@@ -1,14 +1,14 @@
 package cl.praxis.firstwebproject.models;
 
-import java.time.Instant;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 public class GeneralUtilities {
 
     public GeneralUtilities() {}
 
     public String getDate() {
-        LocalDate date = LocalDate.from(Instant.now());
+        LocalDate date = LocalDate.now();
         return date.toString();
     }
 }

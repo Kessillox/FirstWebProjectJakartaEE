@@ -1,18 +1,12 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-i
-9src/main/java/cl/praxis/firstwebproject/HelloServlet.java,e/0/e06177a22c47158eab2d4b94709988a59ca6e0e5
 I
 src/main/webapp/index.jsp,8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded
 O
 src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
-I
-src/main/webapp/fecha.jsp,3/0/306bccc2a2581a661d5f610d8b6af6f128e64ca1
 H
 src/main/webapp/date.jsp,1/f/1f8cc5ff2dffdb84366c5b8f58df2ed579087847
-d
-4src/main/java/cl/praxis/models/GeneralUtilities.java,8/b/8b927f9634247bccdcc4d8e67f10652cf0455b09
 t
 Dsrc/main/java/cl/praxis/firstwebproject/models/GeneralUtilities.java,8/1/81f127fdf1c38997fdf7150add588fa5c1655eb6
 j
